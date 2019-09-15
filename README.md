@@ -1,2 +1,2 @@
 # GlitchProjects
-My Projects Hosted on Glitch
+View all of my projects hosted on glitch at https://glitch.com/@wyattpfeil
